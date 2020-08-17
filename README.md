@@ -1,7 +1,7 @@
 
 # Xylophone
 
-A colourful XyloPhone app. 
+A colourful Xylophone app. 
 
 * Using AVFoundation and AVAudioPlayer.
 * Functions and methods in Swift. 
